@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WSVehiculoEdwin</string>
+    <string name="complete">https://jsonplaceholder.typicode.com/photos</string>
+</resources>

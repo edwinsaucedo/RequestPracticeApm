@@ -1,0 +1,17 @@
+{
+  "hostURL": "https://jsonplaceholder.typicode.com/",
+  "sandboxHostURL": "http://sandbox.api.ikuamericalatina.com/",
+  "sandboxMode": false,
+  "requestLanguage": "es",
+  "autoRegisterToken": false,
+  "timeout": 60,
+  "retryOnTimeout": false,
+  "webServices": {
+    "Results": {
+      "get": "results"
+    },
+    "branches": {
+      "get": "v1/branches/countries/"
+    }
+  }
+}
